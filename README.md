@@ -1,2 +1,2 @@
 "# Lab2-TOS" 
-"nuova riga" 
+"\n nuova riga" 
